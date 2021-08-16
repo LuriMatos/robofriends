@@ -1,0 +1,4 @@
+.scrollComponent {
+    overflow-y: scroll;
+    height: 495px;
+}
